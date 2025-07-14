@@ -30,3 +30,10 @@ A deep learning-powered system that detects rice crop diseases and analyzes soil
 - Early disease detection and smart alerts for better crop management  
 - Scalable architecture for real-world agricultural deployment
 
+## **Contact**
+
+For any questions or feedback regarding the project, please feel free to contact me via the email provided below.
+
+- [LinkedIn Profile](https://www.linkedin.com/in/devika-b-826637288/)  
+- **E-mail**: devikab140@gmail.com
+
